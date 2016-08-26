@@ -4,7 +4,7 @@ Auf dem Registerblatt 'Online-Versionen' können Sie von anderen Xoopsusern zur 
 
 ##![](../assets/info/important.png)Achtung:
 Jeder Autor stellt die Inhalte freiwillig und unentgeltlich zur Verfügung. Es wird keine Garantie für die Richtigkeit der heruntergeladenenen rechtlichen Hinweise bzw. Teile davon übernommen. Die Texte stellen nur einen Vorschlag dar. Bitte überprüfen Sie vor deren Verwendung, ob diese Vorschläge den gesetzlichen Vorschriften, rechtlichen Voraussetzungen, Bestimmungen oder Richtlinien entsprechen.
-Die Verwendung erfolgt auf eigene Gefahr.
+Die Verwendung erfolgt immer auf eigene Gefahr.
  
 #### 2.2.1 Suchen nach verfügbaren Versionen
 ![](../assets/2admin_onlineversions_search.png)
