@@ -3,7 +3,7 @@
 * [Einleitung](README.md)
 * [(De-)Installation](book/1install.md)
 * [Administrationsbereich](book/2administration.md)
-   * [Versionen](book/2admin_verions.md)
+   * [Versionen](book/2admin_versions.md)
    * [Inhalte](book/2admin_contents.md)
    * [Online-Versionen](book/2admin_onlineversions.md)
    * [Über](book/2admin_about.md)
