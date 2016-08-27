@@ -13,7 +13,7 @@
 
 ## Basisinformation zum Modul
 
-wgSitenotice is a XOOPS module for admin your necessary legal notices of your website
+wgSitenotice ist ein XOOPS-Modul für die Verwaltung der für Ihre Seite erforderlichen rechtlichen Hinweise.
 
 ![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Hauptübersicht des Moduls wgSitenotice (Admin-Bereich)*
