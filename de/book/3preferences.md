@@ -24,7 +24,7 @@ Voreingestellt ist der Server des Modulentwicklers.
 Definieren Sie bitte, ob grundsätzlich andere Xoops-Entwickler die Versionen der rechtlichen Hinweise aus Ihrer Datenbank herunterladen dürfen. Sie müssen jedoch noch zusätzlich je Version festlegen, ob diese downloadbar sein soll.
 
 #### Keywords
-Bitte hier die Schlüsselwörter eingeben (getrennt durch ein Komma)
+Bitte hier die Schlüsselwörter eingeben (getrennt durch ein Komma), die in den Metatags ihrer Seite verwendet werden sollen.
 
 #### Listeneinträge Admin-Seiten
 Definieren sie die Anzahl der Einträge für die Listen im Administrationsbereich

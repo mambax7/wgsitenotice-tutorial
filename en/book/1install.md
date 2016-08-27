@@ -4,7 +4,7 @@ No special measures necessary, follow the standard installation process – extr
 Detailed instructions on installing modules are available in the [XOOPS Operations Manual](http://goo.gl/adT2i).
 
 #### 1.1 Install
-- Extract folder 'wgxpiwik' in your module directory
+- Extract folder 'wgsitenotice' in your module directory
 - Log in as admin and goto admin area
 - Install the module through Admin -> Modules -> Install Modules
 ![](../assets/1install.png)<br/>

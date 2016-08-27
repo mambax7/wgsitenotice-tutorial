@@ -20,9 +20,8 @@ On the dashboard you get a short overview about the functionalities and the cont
 a
 
 ## 2.0.3 Functionalities for admins:
-* [Settings](2admin_settings.md)
-* [Piwik-Sites](2admin_sites.md)
-* [Piwik-Users](2admin_users.md)
-* [Permissions](2admin_permissions.md)
+* [Versions](2admin_versions.md)
+* [Contents](2admin_contents.md)
+* [Online-Versions](2admin_onlineversions.md)
 * [About](2admin_about.md)
 * [Help](2admin_help.md)

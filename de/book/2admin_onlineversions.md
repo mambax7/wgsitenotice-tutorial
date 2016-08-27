@@ -8,7 +8,7 @@ Die Verwendung erfolgt immer auf eigene Gefahr.
  
 #### 2.2.1 Suchen nach verfügbaren Versionen
 ![](../assets/2admin_onlineversions_search.png)
-Mit "Starte Überprüfung auf verfügbare Online-Versionen" wird eine Anfrage an die jeweilige Webseite gesendet und eine Liste der verfügbaren Downloads zurückgemeldet.
+Mit "Starte Überprüfung auf verfügbare Online-Versionen" wird eine Anfrage an die jeweilige Webseite gesendet und eine Liste der verfügbaren Downloads zurückgemeldet. Sie können dafür auch jede Ihnen bekannte Webseite verwenden.
 
 Bei einer erfolgreichen Anfrage wird eine Liste der verfügbaren Downloads angezeigt
 ![](../assets/2admin_onlineversions_list.png)
