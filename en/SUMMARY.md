@@ -2,7 +2,7 @@
 
 * [Install/Uninstall](book/1install.md)
 * [Administration Menu](book/2administration.md)
-   * [Versions](book/2admin_verions.md)
+   * [Versions](book/2admin_versions.md)
    * [Contents](book/2admin_contents.md)
    * [Online-Versions](book/2admin_onlineversions.md)
    * [About](book/2admin_about.md)
