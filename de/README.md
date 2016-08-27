@@ -1,8 +1,8 @@
 ### _XOOPS Documentation Series_
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
-# Module wgXPiwik
-#### Version: 1.06 RC1
+# Module wgSitenotice
+#### Version: 1.27 RC1
 #### for XOOPS 2.5.7 / XOOPS 2.5.8
       
 ![logoModule.png](assets/logoModule.png)
