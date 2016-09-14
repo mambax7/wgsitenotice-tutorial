@@ -9,7 +9,7 @@ Example:
 ![Block example](../assets/6blocks.png)
 
 ## 6.2 Block Cookie-Regulation
-If you use a bootstrap theme, the notice concerning cookie policy will be, depending on your settings, static on top or on bottom of your website displayed.
+The notice concerning cookie policy will be, depending on your settings, static on top or on bottom of your website as as single block displayed.
 
 Example Notice on website static top:
 
@@ -21,3 +21,8 @@ It is also recommended to set a link for data protection and explanation for coo
 Example block settings:
 
 ![Example block settings](../assets/6blocks3.png)
+
+If you want to show the notice on top/bottom, you should place a smarty variable with the corresponding value of the block settings somewhere in your theme.
+In this case it should look like this:
+
+![Example display with smarty](../assets/6blocks4.png)

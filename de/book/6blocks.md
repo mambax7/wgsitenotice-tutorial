@@ -9,7 +9,7 @@ Beispiel:
 ![Blockbeispiel](../assets/6blocks.png)
 
 ## 6.2 Block Cookie-Richtlinie
-Wenn ein Bootstrag-Theme verwendet wird, wird der Hinweis auf die Cookie-Richtline je nach Einstellung statisch oben oder unten auf der Webseite angezeigt. 
+Der Hinweis auf die Cookie-Richtline wird je nach Einstellung statisch oben oder unten auf der Webseite oder als einzelner Block angezeigt. 
 
 Beispiel Ansicht Hinweis auf Webseite Statisch oben:
 
@@ -21,3 +21,8 @@ Es wird außerdem empfohlen, einen Link auf die Datenschutzbestimmungen sowie zu
 Beispiel Ansicht Blockeinstellungen:
 
 ![Ansicht Blockeinstellungen](../assets/6blocks3.png)
+
+Wenn Sie den Hinweis mittels Smarty oben/unten auf Ihrer Webseite anzeigen wollten, müssen Sie irgendwo in Ihrem Theme eine Smarty-Variable mit dem entsprechenden Wert aus Ihren Blockeinstellungen platzieren.
+Dies sollte dann wie im nachfolgenden Beispiel aussehen:
+
+![Beispiel Anzeige mit Smarty](../assets/6blocks4.png)
